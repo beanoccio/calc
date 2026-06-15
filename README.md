@@ -2,6 +2,15 @@
 
 Zahlenanalyse
 
+## Build
+
+Required packages for building on Ubuntu/Debian:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y build-essential cmake qtdeclarative5-dev qtbase5-dev qml-module-qtquick-controls2 intltool
+```
+
 ## License
 
 Copyright (C) 2026  Harald Ferihumer
