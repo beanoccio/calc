@@ -1,6 +1,6 @@
 # testcalc
 
-This is just a practice project for apps on Ubuntu Touch using GitHub
+Zahlenanalyse
 
 ## Build
 
