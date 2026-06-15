@@ -1,0 +1,15 @@
+{
+    "name": "calc.ferihumh",
+    "description": "Zahlenanalyse",
+    "architecture": "$ENV{ARCH}",
+    "title": "testcalc",
+    "hooks": {
+        "calc": {
+            "apparmor": "calc.apparmor",
+            "desktop":  "calc.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Harald Ferihumer <h.ferihumer@outlook.com>",
+    "framework" : "$ENV{CLICK_FRAMEWORK}"
+}

@@ -1,0 +1,25 @@
+/build/
+/all/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+install_manifest.txt
+
+# Clickable / packaging
+/.clickable/
+*.click
+*.deb
+
+# Qt / QML / IDE
+*.qmlc
+*.qmldir
+.vscode/
+*.user
+*.pro.user
+
+# OS
+.DS_Store
+*.swp
+
+# Misc
+*.log
