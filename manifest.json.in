@@ -1,6 +1,6 @@
 {
     "name": "calc.ferihumh",
-    "description": "Zahlenanalyse",
+    "description": "ZahTeiler und Nenner",
     "architecture": "$ENV{ARCH}",
     "title": "testcalc",
     "hooks": {
