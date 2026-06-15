@@ -27,7 +27,7 @@ MainView {
             // --- Echter Lomiri Header ---
             header: PageHeader {
                 id: header
-                title: "kgv & ggT"
+                title: "kgv & ggT calculation"
             }
 
             // --- Inhalt direkt auf der Page ---
