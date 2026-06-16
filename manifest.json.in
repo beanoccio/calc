@@ -3,6 +3,7 @@
     "description": "ZahTeiler und Nenner",
     "architecture": "$ENV{ARCH}",
     "title": "testcalc",
+    "icon": "assets/qlmtest_logo.png",
     "hooks": {
         "calc": {
             "apparmor": "calc.apparmor",
